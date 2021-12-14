@@ -14,8 +14,6 @@
 <style scoped>
 .wrapper {
   height: 100vh;
-  color: #021f71;
-  font-size: 24px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 30px auto;

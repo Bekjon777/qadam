@@ -26,12 +26,14 @@ export default {
 body {
   margin: 0;
   background-color: #F3F4F7;
+  
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #021f71;
+  font-size: 24px;
 }
 </style>

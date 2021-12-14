@@ -15,6 +15,7 @@ header {
     height: 80px;
     color: #FCFCFC;
     align-items: center;
+    font-size: 20px;
 }
 .logo {
     height: 100%;

@@ -30,8 +30,8 @@ export default {
   font-weight: 600;
   text-align: right;
   height: 40vh;
-  width: 60vw;
-  margin-top: 50px;
+  width: 40vw;
+  margin-top: 150px;
 }
 .primary {
   font-size: 100px;
